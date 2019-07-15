@@ -15,8 +15,3 @@ framework:
     #fragments: true
     php_errors:
         log: true
-
-
-doctrine:
-    dbal:
-        dbname:   "%database_name%_test"
